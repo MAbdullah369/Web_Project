@@ -1,0 +1,19 @@
+*{
+    font-family: suse;
+}
+img{
+    border-radius: 50%;
+    object-fit: fill;
+    width: 10%;
+    margin-left: 2%;
+}
+ul{
+   align-items: left;
+   margin-left: -52%;
+}
+li{
+    font-weight:500;
+}
+.nav-item:hover{
+    color: black;
+}
