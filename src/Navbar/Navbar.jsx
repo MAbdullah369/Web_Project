@@ -3,32 +3,43 @@ import React from 'react'
 import './Navbar.css'
 const Navbar = () => {
   return (
-    <div><nav className="navbar navbar-expand-lg bg-dark">
-    <div className="container-fluid">
-      <a className="navbar-brand text-white " href="#"><img src="1.png" alt="" /></a>
-      <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span className="navbar-toggler-icon"></span>
-      </button>
-      <div className="collapse navbar-collapse " id="navbarSupportedContent">
-        <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-          <li className="nav-item">
-            <a className="nav-link active text-white m-2" aria-current="page" href="#">Home</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link text-white m-2" href="#">Experiences</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link text-white m-2" href="#">Online Experiences</a>
-          </li>
-        </ul>
-        <form className="d-flex" role="search">
-          <input className="form-control me-2" type="search" placeholder="Location" aria-label="Search" /> 
-          <button className="btn btn-outline-success" type="submit">Search</button>
-        </form>
+    <div>
+   <nav className="navbar">
+      <div className="navbar-container">
+        <div className="navbar-logo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg" alt="airbnb logo" />
+        </div>
+
+        <div className="navbar-links">
+          <a href="#" className="nav-link">Stays</a>
+          <a href="#" className="nav-link">Experiences</a>
+        </div>
+        <div className="navbar-right">
+          <a href="#" className="nav-link home">Airbnb your home</a>
+          <a href="#" className="nav-link">
+            <img src="img2.png" alt="language" width="24" height="24" />
+          </a>
+          <div className="dropdown">
+            <button className="profile-btn btn btn-outline-secondary dropdown-toggle">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Hamburger_icon.svg" alt="menu" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/User_font_awesome.svg" alt="profile" />
+            </button>
+            <div className="dropdown-content">
+            <a href="#">Sign up</a>
+              <a href="#">Log in</a>
+              <hr />
+              <a href="#">Gift cards</a>
+              <a href="#">Airbnb your home</a>
+              <a href="#">Host an experience</a>
+              <a href="#">Help Center</a>
+            </div>
+          </div>
+        </div>
       </div>
+    </nav>
+
+
     </div>
-  </nav>
-  </div>
   )
 }
 
