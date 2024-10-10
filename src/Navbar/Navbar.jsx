@@ -7,7 +7,7 @@ const Navbar = () => {
    <nav className="navbar">
       <div className="navbar-container">
         <div className="navbar-logo">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg" alt="airbnb logo" />
+          <img src="img3.png" alt="airbnb logo" />
         </div>
 
         <div className="navbar-links">

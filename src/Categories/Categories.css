@@ -1,0 +1,46 @@
+.categories-container {
+    scrollbar-color: white white;
+    margin-top: 2%;
+    height: 120px;
+    display: flex;
+    overflow-x: scroll;
+    border-top: 0.5px solid rgba(135, 207, 235, 0.37);
+    padding: 10px;
+    white-space: nowrap;
+    padding-left: 3%;
+    padding-top: 2%;
+}
+
+.category-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 3%;
+    text-align: center;
+    font-size: 12px;
+    height: 100%;
+    color: #333;
+    cursor: pointer;
+}
+
+.category-item img {
+    width: 24px;
+    opacity: 0.6;
+    height: 24px;
+    margin-bottom: 8px;
+}
+
+.category-item span {
+    font-size: 14px;
+    color: #555;
+}
+.category-item span:hover {
+    color: #111;
+}
+.category-item:hover{
+    border-bottom: 2.5px solid #111;   
+   
+}
+.category-item img:hover{
+    opacity: 0.9;
+}
