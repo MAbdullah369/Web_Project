@@ -57,200 +57,195 @@ const categories = () => {
         <span>Bed & breakfasts</span>
     </div>
     <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc1.jpg' alt='Beachfront' />
+        <img src="https://a0.muscache.com/pictures/bcd1adc0-5cee-4d7a-85ec-f6730b0f8d0c.jpg" alt='Beachfront' />
         <span>Beachfront</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc2.jpg' alt='Tropical' />
+        <img src="https://a0.muscache.com/pictures/ee9e2a40-ffac-4db9-9080-b351efc3cfc4.jpg" alt='Tropical' />
         <span>Tropical</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc3.jpg' alt='Amazing pools' />
+        <img src="https://a0.muscache.com/pictures/3fb523a0-b622-4368-8142-b5e03df7549b.jpg" alt='Amazing pools' />
         <span>Amazing pools</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc4.jpg' alt='Top of the world' />
+        <img src="https://a0.muscache.com/pictures/248f85bf-e35e-4dc3-a9a1-e1dbff9a3db4.jpg" alt='Top of the world' />
         <span>Top of the world</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc5.jpg' alt='Farms' />
+        <img src="https://a0.muscache.com/pictures/aaa02c2d-9f0d-4c41-878a-68c12ec6c6bd.jpg" alt='Farms' />
         <span>Farms</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc6.jpg' alt='Castles' />
+        <img src="https://a0.muscache.com/pictures/1b6a8b70-a3b6-48b5-88e1-2243d9172c06.jpg" alt='Castles' />
         <span>Castles</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc7.jpg' alt='National parks' />
+        <img src="https://a0.muscache.com/pictures/c0a24c04-ce1f-490c-833f-987613930eca.jpg" alt='National parks' />
         <span>National parks</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc8.jpg' alt='Desert' />
+        <img src="https://a0.muscache.com/pictures/a6dd2bae-5fd0-4b28-b123-206783b5de1d.jpg" alt='Desert' />
         <span>Desert</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc9.jpg' alt='Skiing' />
+        <img src="https://a0.muscache.com/pictures/c8bba3ed-34c0-464a-8e6e-27574d20e4d2.jpg" alt='Skiing' />
         <span>Skiing</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc10.jpg' alt='Lake' />
+        <img src="https://a0.muscache.com/pictures/a4634ca6-1407-4864-ab97-6e141967d782.jpg" alt='Lake' />
         <span>Lake</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc11.jpg' alt='Treehouses' />
+        <img src="https://a0.muscache.com/pictures/4d4a4eba-c7e4-43eb-9ce2-95e1d200d10e.jpg" alt='Treehouses' />
         <span>Treehouses</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc12.jpg' alt='Islands' />
+        <img src="https://a0.muscache.com/pictures/8e507f16-4943-4be9-b707-59bd38d56309.jpg" alt='Islands' />
         <span>Islands</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-play-icon.png' alt='Play' />
+        <img src="https://a0.muscache.com/pictures/f0c5ca0f-5aa0-4fe5-b38d-654264bacddf.jpg" alt='Play' />
         <span>Play</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-cabins-icon.png' alt='Cabins' />
+        <img src="https://a0.muscache.com/pictures/732edad8-3ae0-49a8-a451-29a8010dcc0c.jpg" alt='Cabins' />
         <span>Cabins</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-camping-icon.png' alt='Camping' />
+        <img src="https://a0.muscache.com/pictures/ca25c7f3-0d1f-432b-9efa-b9f5dc6d8770.jpg" alt='Camping' />
         <span>Camping</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-cycladic-homes-icon.png' alt='Cycladic homes' />
+        <img src="https://a0.muscache.com/pictures/e4b12c1b-409b-4cb6-a674-7c1284449f6e.jpg" alt='Cycladic homes' />
         <span>Cycladic homes</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-tiny-homes-icon.png' alt='Tiny homes' />
+        <img src="https://a0.muscache.com/pictures/3271df99-f071-4ecf-9128-eb2d2b1f50f0.jpg" alt='Tiny homes' />
         <span>Tiny homes</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-dammusi-icon.png' alt='Dammusi' />
+        <img src="https://a0.muscache.com/pictures/c9157d0a-98fe-4516-af81-44022118fbc7.jpg" alt='Dammusi' />
         <span>Dammusi</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-shepherd-huts-icon.png' alt='Shepherds huts' />
+        <img src="https://a0.muscache.com/pictures/747b326c-cb8f-41cf-a7f9-809ab646e10c.jpg" alt='Shepherds huts' />
         <span>Shepherd's huts</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-boats-icon.png' alt='Boats' />
+        <img src="https://a0.muscache.com/pictures/687a8682-68b3-4f21-8d71-3c3aef6c1110.jpg" alt='Boats' />
         <span>Boats</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-riads-icon.png' alt='Riads' />
+        <img src="https://a0.muscache.com/pictures/7ff6e4a1-51b4-4671-bc9a-6f523f196c61.jpg" alt='Riads' />
         <span>Riads</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-luxe-icon.png' alt='Luxe' />
+        <img src="https://a0.muscache.com/pictures/c8e2ed05-c666-47b6-99fc-4cb6edcde6b4.jpg" alt='Luxe' />
         <span>Luxe</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-caves-icon.png' alt='Caves' />
+        <img src="https://a0.muscache.com/pictures/4221e293-4770-4ea8-a4fa-9972158d4004.jpg" alt='Caves' />
         <span>Caves</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-earth-homes-icon.png' alt='Earth homes' />
+        <img src="https://a0.muscache.com/pictures/d7445031-62c4-46d0-91c3-4f29f9790f7a.jpg" alt='Earth homes' />
         <span>Earth homes</span>
       </div>
-      
-      <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/5ed8f7c7-2e1f-43a8-9a39-4edfc81a3325.jpg' alt='Bed & breakfasts' />
-        <span>New</span>
-    </div>
     <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc1.jpg' alt='Beachfront' />
+        <img src="https://a0.muscache.com/pictures/677a041d-7264-4c45-bb72-52bff21eb6e8.jpg" alt='Beachfront' />
         <span>Lakefront</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc2.jpg' alt='Tropical' />
+        <img src="https://a0.muscache.com/pictures/31c1d523-cc46-45b3-957a-da76c30c85f9.jpg" alt='Tropical' />
         <span>Campers</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc3.jpg' alt='Amazing pools' />
+        <img src="https://a0.muscache.com/pictures/957f8022-dfd7-426c-99fd-77ed792f6d7a.jpg" alt='Amazing pools' />
         <span>Surfing</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc4.jpg' alt='Top of the world' />
+        <img src="https://a0.muscache.com/pictures/1d477273-96d6-4819-9bda-9085f809dad3.jpg" alt='Top of the world' />
         <span>A-frames</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc5.jpg' alt='Farms' />
+        <img src="https://a0.muscache.com/pictures/60ff02ae-d4a2-4d18-a120-0dd274a95925.jpg" alt='Farms' />
         <span>Vineyards</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc6.jpg' alt='Castles' />
+        <img src="https://a0.muscache.com/pictures/33dd714a-7b4a-4654-aaf0-f58ea887a688.jpg" alt='Castles' />
         <span>Historical homes</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc7.jpg' alt='National parks' />
+        <img src="https://a0.muscache.com/pictures/6b639c8d-cf9b-41fb-91a0-91af9d7677cc.jpg" alt='National parks' />
         <span>Golfing</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc8.jpg' alt='Desert' />
+        <img src="https://a0.muscache.com/pictures/51f5cf64-5821-400c-8033-8a10c7787d69.jpg" alt='Desert' />
         <span>Hanoks</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc9.jpg' alt='Skiing' />
+        <img src="https://a0.muscache.com/pictures/5cdb8451-8f75-4c5f-a17d-33ee228e3db8.jpg" alt='Skiing' />
         <span>Windmills</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc10.jpg' alt='Lake' />
+        <img src="https://a0.muscache.com/pictures/827c5623-d182-474a-823c-db3894490896.jpg" alt='Lake' />
         <span>Ryokans</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc11.jpg' alt='Treehouses' />
+        <img src="https://a0.muscache.com/pictures/89faf9ae-bbbc-4bc4-aecd-cc15bf36cbca.jpg" alt='Treehouses' />
         <span>Domes</span>
       </div>
       <div className='category-item'>
-        <img src='https://a0.muscache.com/pictures/abc12.jpg' alt='Islands' />
+        <img src="https://a0.muscache.com/pictures/4759a0a7-96a8-4dcd-9490-ed785af6df14.jpg" alt='Islands' />
         <span>Yurts</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-play-icon.png' alt='Play' />
+        <img src="https://a0.muscache.com/pictures/251c0635-cc91-4ef7-bb13-1084d5229446.jpg" alt='Play' />
         <span>Casas particulares</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-cabins-icon.png' alt='Cabins' />
+        <img src="https://a0.muscache.com/pictures/d721318f-4752-417d-b4fa-77da3cbc3269.jpg" alt='Cabins' />
         <span>Towers</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-camping-icon.png' alt='Camping' />
+        <img src="https://a0.muscache.com/pictures/f60700bc-8ab5-424c-912b-6ef17abc479a.jpg" alt='Camping' />
         <span>Barns</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-cycladic-homes-icon.png' alt='Cycladic homes' />
+        <img src="https://a0.muscache.com/pictures/48b55f09-f51c-4ff5-b2c6-7f6bd4d1e049.jpg" alt='Cycladic homes' />
         <span>Minsus</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-tiny-homes-icon.png' alt='Tiny homes' />
+        <img src="https://a0.muscache.com/pictures/9a2ca4df-ee90-4063-b15d-0de7e4ce210a.jpg" alt='Tiny homes' />
         <span>Off-the-grid</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-dammusi-icon.png' alt='Dammusi' />
+        <img src="https://a0.muscache.com/pictures/c027ff1a-b89c-4331-ae04-f8dee1cdc287.jpg" alt='Dammusi' />
         <span>houseboats</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-shepherd-huts-icon.png' alt='Shepherds huts' />
+        <img src="https://a0.muscache.com/pictures/757deeaa-c78f-488f-992b-d3b1ecc06fc9.jpg" alt='Shepherds huts' />
         <span>Adapted</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-boats-icon.png' alt='Boats' />
+        <img src="https://a0.muscache.com/pictures/757deeaa-c78f-488f-992b-d3b1ecc06fc9.jpg" alt='Boats' />
         <span>Sky-in/out</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-riads-icon.png' alt='Riads' />
+        <img src="https://a0.muscache.com/pictures/0ff9740e-52a2-4cd5-ae5a-94e1bfb560d6.jpg" alt='Riads' />
         <span>Conntainers</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-luxe-icon.png' alt='Luxe' />
+        <img src="https://a0.muscache.com/pictures/8a43b8c6-7eb4-421c-b3a9-1bd9fcb26622.jpg" alt='Luxe' />
         <span>Creative spaces</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-caves-icon.png' alt='Caves' />
+        <img src="https://a0.muscache.com/pictures/8eccb972-4bd6-43c5-ac83-27822c0d3dcd.jpg" alt='Caves' />
         <span>Grand pianos</span>
       </div>
       <div className='category-item'>
-        <img src='https://example.com/path-to-earth-homes-icon.png' alt='Earth homes' />
+        <img src="https://a0.muscache.com/pictures/33848f9e-8dd6-4777-b905-ed38342bacb9.jpg" alt='Earth homes' />
         <span>Trulli</span>
       </div>
     

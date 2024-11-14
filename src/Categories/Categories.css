@@ -34,13 +34,14 @@
     font-size: 14px;
     color: #555;
 }
-.category-item span:hover {
-    color: #111;
-}
-.category-item:hover{
+.category-item:hover {
     border-bottom: 2.5px solid #111;   
-   
 }
-.category-item img:hover{
+
+.category-item:hover img {
     opacity: 0.9;
+}
+
+.category-item:hover span {
+    color: #111;
 }
