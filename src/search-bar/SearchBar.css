@@ -7,7 +7,8 @@
     padding: 0.5%;
     padding-left: 1%;
     border-radius: 50px;
-    box-shadow: 0 0px 10px gray;
+    box-shadow: 0 0px 10px rgb(219, 207, 207);
+    border:1px solid rgb(219, 207, 207) ;
     width: 85%;
     max-width: 1000px;
     margin: 0 auto;

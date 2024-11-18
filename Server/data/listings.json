@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Cozy Apartment",
+      "location": "City Center",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Luxury Villa",
+      "location": "Beachfront",
+      "price": 500
+    }
+  ]
+  
