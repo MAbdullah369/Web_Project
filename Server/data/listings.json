@@ -1,15 +1,100 @@
 [
-    {
+  {
       "id": 1,
-      "name": "Cozy Apartment",
-      "location": "City Center",
-      "price": 100
-    },
-    {
+      "title": "Modern Apartment",
+      "description": "A beautiful apartment in the city center.",
+      "price": 1200,
+      "location": "New York, USA",
+      "rating": 4.8,
+      "distance": "10 kilometers",
+      "date": "May 15 - May 20",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-25178105/original/12bc582a-d987-4ab1-9ac8-da16c5f4fc6e.jpeg?im_w=720&im_format=avif 1x" 
+  },
+  {
       "id": 2,
-      "name": "Luxury Villa",
-      "location": "Beachfront",
-      "price": 500
-    }
-  ]
-  
+      "title": "Cozy Cottage",
+      "description": "A quiet cottage in the countryside.",
+      "price": 800,
+      "location": "Yorkshire, UK",
+      "rating": 4.7,
+      "distance": "500 kilometers",
+      "date": "June 1 - June 7",
+      "image": "https://a0.muscache.com/im/pictures/e3e5e3cf-9273-411b-a121-e8d6f2a6349d.jpg?im_w=720&im_format=avif 1x"
+  },
+  {
+      "id": 3,
+      "title": "Luxury Villa",
+      "description": "An extravagant villa with a private pool.",
+      "price": 2500,
+      "location": "Cape Town, South Africa",
+      "rating": 4.95,
+      "distance": "9,453 kilometers",
+      "date": "May 31 - June 5",
+      "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1081247984167693443/original/c69f8135-7d87-413e-89d4-a963940f8de8.jpeg?im_w=720&im_format=avif 1x"
+  },
+  {
+    "id": 4,
+    "title": "Modern Apartment",
+    "description": "A beautiful apartment in the city center.",
+    "price": 1460,
+    "location": " Florence, Italy",
+    "rating": 4.5,
+    "distance": "5,358 kilometers",
+    "date": "Jan 26 – 31Jan",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-908611595823138745/original/e2ea2ccc-df2a-4e49-b81d-a508508aae02.jpeg?im_w=720&im_format=avif 1x" 
+},
+{
+    "id": 5,
+    "title": "Cozy Cottage",
+    "description": "A quiet cottage in the countryside.",
+    "price": 410,
+    "location": " Göppingen, Germany",
+    "rating": 4.3,
+    "distance": "5,399 kilometers",
+    "date": "Jan 18 – Jan 23",
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1124010734237889235/original/5d19481e-59be-49ab-a820-4af2ef1052aa.jpeg?im_w=720&im_format=avif 1x"
+},
+{
+    "id": 6,
+    "title": "Khet Phra Khanong, Thailand",
+    "description": "An extravagant villa with a private pool.",
+    "price": 2000,
+    "location": "Cape Town, South Africa",
+    "rating": 4.82,
+    "distance": "3,549 kilometers",
+    "date": "Jan 8 – Jan 13",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-820896778503897920/original/bdd370e0-63fa-4852-a6f2-4c23a2f12356.jpeg?im_w=720&im_format=avif 1x"
+},{
+  "id": 7,
+  "title": "Modern Apartment",
+  "description": "A beautiful apartment in the city center.",
+  "price": 1304,
+  "location": "Barra Guaratiba, Brazil",
+  "rating": 4.97,
+  "distance": "13,804 kilometers",
+  "date": "Jan 21 - Jan 26",
+  "image": "https://a0.muscache.com/im/pictures/miso/Hosting-567312805305357318/original/465c0d98-ef05-402c-9625-fd800fa0bf7f.jpeg?im_w=720&im_format=avif 1x" 
+},
+{
+  "id": 8,
+  "title": "Cozy Cottage",
+  "description": "A quiet cottage in the countryside.",
+  "price": 63,
+  "location": " Randburg, South Africa",
+  "rating": 4.65,
+  "distance": "8,187 kilometers",
+  "date": "Mar 11 – Mar 16",
+  "image": "https://a0.muscache.com/im/pictures/miso/Hosting-45196221/original/ba54d43f-88f5-42ea-8df4-03ae9cbd1d91.jpeg?im_w=720&im_format=avif 1x"
+},
+{
+  "id": 9,
+  "title": "Luxury Villa",
+  "description": "An extravagant villa with a private pool.",
+  "price": 964,
+  "location": " Bentong, Malaysia",
+  "rating": 4.95,
+  "distance": "4,498 kilometers",
+  "date": "Jan 12 – Jan 17",
+  "image": "https://a0.muscache.com/im/pictures/miso/Hosting-727233884641821852/original/1a35d9b2-7860-46f6-8e5a-196cdeba78a3.jpeg?im_w=720&im_format=avif 1x"
+}
+]

@@ -3,7 +3,7 @@ import './App.css'
 import Navbar from './Navbar/Navbar'
 import SearchBar from './search-bar/SearchBar'
 import Categories from './Categories/Categories'
-import ListingCards from './ListingCards/ListingCards'
+// import ListingCards from './ListingCards/ListingCards'
 import Footer from './Footer/Footer'
 import Listings from './Components/Listings.jsx'
 function App() {
@@ -13,9 +13,8 @@ function App() {
       <Navbar/>
       <SearchBar/>
       <Categories/>
-      <ListingCards/>
-      <Footer/>
       <Listings />
+      <Footer/>
     </>
   )
 }
